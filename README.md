@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Привет, я Георгий
 
-<!--
-**Uranator/Uranator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Стек
+- **Python:** FastAPI, Playwright, asyncio
+- **AI:** Hermes, Ollama, OpenRouter, RAG, MCP
+- **Сети:** OpenWrt, Zapret, Sing-box, Xray, AdGuard
+- **DevOps:** Docker, Linux, Git, Bash
 
-Here are some ideas to get you started:
+## 🚀 Проекты
+- [hh-mcp-server](https://github.com/uranator/hh-mcp-server) — MCP-сервер для hh.ru
+- [hermes-agent](https://github.com/uranator/hermes-agent) — локальный AI-агент
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Статистика
+![Stats](https://github-readme-stats.vercel.app/api?username=uranator&show_icons=true&theme=dark)
